@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Min
+- 👋 Hi, I’m min.
 - 👀 I’m interested in InfoSec
 - 🌱 I’m currently learning IT and mainly CybSec.
 - 💞️ I’m looking to collaborate on future CybSec projects.
